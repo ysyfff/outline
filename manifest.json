@@ -5,8 +5,9 @@
 	"version":"1.0",
 
 	"permissions":[
+		"https://secure.flickr.com/"
 	],
-	"brower_action":{
+	"browser_action":{
 		"default_icon": "icon.png",
 		"default_popup": "popup.html"
 	}
